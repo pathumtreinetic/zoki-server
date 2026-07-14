@@ -1,0 +1,6 @@
+[submodule "string-utils"]
+	path = string-utils
+	url = https://github.com/pathumtreinetic/string-utils.git
+[submodule "math-utils"]
+	path = math-utils
+	url = https://github.com/pathumtreinetic/math-utils.git
